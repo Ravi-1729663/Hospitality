@@ -20,8 +20,6 @@ This project focuses on developing an **interactive Power BI dashboard** for ana
 ![Main Dashboard](screenshots/main_dashboard.png)  
 *Shows KPIs, trends, and overall hotel performance.*
 
-> **Note:** Replace these screenshot links with actual images of your Power BI dashboard saved in a `screenshots` folder.
-
 ---
 
 ## Tech Stack
