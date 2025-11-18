@@ -46,7 +46,11 @@ This project focuses on developing an **interactive Power BI dashboard** for ana
 - **MySQL Database** with your hospitality data  
 - Basic understanding of **Power BI** dashboards and MySQL queries
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hospitality-analytics-dashboard.git
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **RAVI SANKAR REDDY BOVILLA **. I’m  passionate about data analyst and data engineering
